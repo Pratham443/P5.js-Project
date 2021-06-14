@@ -1,0 +1,33 @@
+body {
+    background-color: whitesmoke;
+}
+
+input {
+    margin-bottom: 35px;
+}
+
+#canvas_div {
+    width: 1000px;
+    height: 600px;
+    background-color: whitesmoke;
+}
+
+#location {
+    margin-bottom: 50px;
+    width: 650px;
+    height: 400px;
+    border: 2px dashed black;
+}
+
+#whitener {
+    background-color: white;
+}
+
+.btn-info {
+    width: 200px;
+    font-size: 30px;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
